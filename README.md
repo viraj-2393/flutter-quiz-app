@@ -1,6 +1,6 @@
-# udemy_tutorial
+# Quiz app
 
-A new Flutter application.
+A new basic Flutter application for personality test.
 
 ## Getting Started
 
